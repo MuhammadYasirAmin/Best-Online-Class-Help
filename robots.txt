@@ -1,4 +1,4 @@
-User-agent: *
-Disallow: /D A T A B A S E/
-Crawl-delay: 15
-Sitemap: https://bestonlineclasshelps.com/sitemap.xml
+user-agent: *
+disallow: /wp-site/
+disallow: /admin/
+disallow: /mail.php
